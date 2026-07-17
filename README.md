@@ -8,7 +8,7 @@ This project will explore whether or not demographic and historical can be used 
 Are specific factors able to determine whether an accused person was executed?
 
 ## Dataset
-Given the research questions, the dataset will be:
+Given the research question, the dataset will be:
 - age
 - gender
 - marital status
